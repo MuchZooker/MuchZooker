@@ -1,6 +1,6 @@
 ```java
 
-  @SpringBootApplication
+@SpringBootApplication
 @EnableDiscoveryClient
 public class GatewayApplication {
 
